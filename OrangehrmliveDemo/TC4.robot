@@ -18,6 +18,7 @@ FirstSecondTest
 
 FirstThirdTest
     Log   Hello WOrld.....It is Third
+    Log   demo
 *** Variables ***
 
 *** Keywords ***
